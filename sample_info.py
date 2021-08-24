@@ -25,7 +25,13 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 START_MSG = """
 **Hi, I'm Media Search bot**
 
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+You can use me to find movie files😝.
+I have over 15k saved files in my data base and its growing😇.
+🔰Just send me the name of the movie you need and i will provide..🔰
+
+❌Make sure you send the correct spelling,year while searching❌
+
+⭕️⚠️NOTE: MY INLINE BUTTON IS NOT WORKING DUE TO BUGS I WILL FIX IT SOON...⚠️⭕️
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
