@@ -26,12 +26,11 @@ START_MSG = """
 **Hi, I'm Media Search bot**
 
 You can use me to find movie files😝.
-I have over 15k saved files in my data base and its growing😇.
+I have over 20k saved files in my database and its growing😇.
 🔰Just send me the name of the movie you need and i will provide..🔰
 
 ❌Make sure you send the correct spelling,year while searching❌
-
-⭕️⚠️NOTE: MY INLINE BUTTON IS NOT WORKING DUE TO BUGS I WILL FIX IT SOON...⚠️⭕️
+Dont forget to share me....
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
